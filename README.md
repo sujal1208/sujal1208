@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sujal Patel. I am a macOS MDM administrator at Ascendion Inc.
+- 👋 Hi, I’m Sujal Patel. I am a macOS MDM administrator and an Executive IT Support at IMAX Corporation.
 - 📫 You can reached me on linkedin: https://www.linkedin.com/in/sujal1208/
 
 <!---
